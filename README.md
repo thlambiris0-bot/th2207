@@ -10,3 +10,4 @@ Data Visualization: matplotlib, seaborn, plotly
 SQL Data Analysis: joins, aggregations, window functions
 Machine Learning: regression and classification models using sklearn
 Data Pipelines & APIs: building simple pipelines and REST APIs using FastAPI
+
