@@ -9,5 +9,5 @@
 ![Static Badge](https://img.shields.io/badge/excel-darkgreen?style=for-the-badge) 
 ![Static Badge](https://img.shields.io/badge/matplotlib-lightblue?style=for-the-badge&logo=graphs) 
 ![Static Badge](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&labelColor=blue) 
-![Static Badge]((https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff))
+![Static Badge](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)
 
