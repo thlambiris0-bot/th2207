@@ -6,8 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas&labelColor=darkblue&color=darkblue)
 ![Static Badge](https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy&labelColor=blue&color=blue)  
 ![Static Badge](https://img.shields.io/badge/matplotlib-lightblue?style=for-the-badge&logo=graphs)  
-![Static Badge](https://img.shields.io/badge/excel-darkgreen?style=for-the-badge) 
-![Static Badge](https://img.shields.io/badge/matplotlib-lightblue?style=for-the-badge&logo=graphs) 
+![Static Badge](https://img.shields.io/badge/excel-darkgreen?style=for-the-badge)  
 ![Static Badge](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&labelColor=blue) 
 ![Static Badge](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)
 
