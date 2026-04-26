@@ -8,9 +8,9 @@
 
 ![Static Badge](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&labelColor=blue)  ![Static Badge](https://img.shields.io/badge/excel-darkgreen?style=for-the-badge)
 
-## Currently building hands-on projects in:
-Exploratory Data Analysis (EDA): data cleaning, handling missing values, outlier detection, statistical analysis.
-Data Visualization: matplotlib, seaborn, plotly
-SQL Data Analysis: joins, aggregations, window functions
-Machine Learning: regression and classification models with sklearn
-Data Pipelines & APIs: building simple pipelines and REST APIs using FastAPI
+### Currently building hands-on projects in:
+## Exploratory Data Analysis (EDA): data cleaning, handling missing values, outlier detection, statistical analysis.
+## Data Visualization: matplotlib, seaborn, plotly
+## SQL Data Analysis: joins, aggregations, window functions
+## Machine Learning: regression and classification models with sklearn
+## Data Pipelines & APIs: building simple pipelines and REST APIs using FastAPI
