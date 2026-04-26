@@ -4,8 +4,9 @@
 
 
 ## Currently building hands-on projects in:
-## Exploratory Data Analysis (EDA): data cleaning, handling missing values, outlier detection
-## Statistical & Probabilistic Modeling: hypothesis testing, Bayesian inference (prior/posterior distributions), regression, classification
-## Data Visualization: matplotlib, seaborn, plotly
-## SQL Data Analysis: joins, aggregations, window functions
-## Data Pipelines & APIs: building simple pipelines and REST APIs using FastAPI
+## Exploratory Data Analysis (EDA): data cleaning, handling missing values, outlier detection, and data exploration
+Statistical & Probabilistic Modeling: hypothesis testing, Bayesian inference (prior/posterior distributions), regression and classification
+Data Visualization: matplotlib, seaborn, plotly
+SQL Data Analysis: joins, aggregations, window functions
+Machine Learning: regression and classification models using sklearn
+Data Pipelines & APIs: building simple pipelines and REST APIs using FastAPI
