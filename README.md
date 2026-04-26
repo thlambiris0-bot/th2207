@@ -4,7 +4,7 @@
 
 
 ## Currently building hands-on projects in:
-## Exploratory Data Analysis (EDA): data cleaning, handling missing values, outlier detection, and data exploration
+Exploratory Data Analysis (EDA): data cleaning, handling missing values, outlier detection, and data exploration
 
 Statistical & Probabilistic Modeling: hypothesis testing, Bayesian inference (prior/posterior distributions), regression and classification
 
