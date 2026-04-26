@@ -4,16 +4,16 @@
 #  Interested in entry-level opportunities in Data Engineering, Machine Learning, and Data Science.
 
 ## Currently building hands-on projects in:
-Exploratory Data Analysis (EDA): data cleaning, handling missing values, outlier detection, and data exploration
+•Exploratory Data Analysis (EDA): data cleaning, handling missing values, outlier detection, and data exploration
 
-Statistical & Probabilistic Modeling: hypothesis testing, Bayesian inference (prior/posterior distributions), regression and classification
+•Statistical & Probabilistic Modeling: hypothesis testing, Bayesian inference (prior/posterior distributions), regression and classification
 
-Data Visualization: matplotlib, seaborn, plotly
+•Data Visualization: matplotlib, seaborn, plotly
 
-SQL Data Analysis: joins, aggregations, window functions
+•SQL Data Analysis: joins, aggregations, window functions
 
-Machine Learning: regression and classification models using sklearn
+•Machine Learning: regression and classification models using sklearn
 
-Data Pipelines & APIs: building simple pipelines and REST APIs using FastAPI
+•Data Pipelines & APIs: building simple pipelines and REST APIs using FastAPI
 
 
