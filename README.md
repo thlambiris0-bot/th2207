@@ -1,7 +1,7 @@
 # th2207
-# Hi, I'm Thomas 
+ Hi, I'm Thomas 
 ##  Applied Mathematics graduate with a strong foundation in statistical modeling, stochastic processes, and data analysis. 
-##  Interested in entry-level opportunities in Data Engineering, Machine Learning, and Data Science.
+#  Interested in entry-level opportunities in Data Engineering, Machine Learning, and Data Science.
 
 ## Currently building hands-on projects in:
 Exploratory Data Analysis (EDA): data cleaning, handling missing values, outlier detection, and data exploration
