@@ -7,3 +7,10 @@
 ![Static Badge](https://img.shields.io/badge/sql-orange?style=for-the-badge&logo=mysql&labelColor=white&color=orange) ![Static Badge](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&labelColor=blue)  ![Static Badge](https://img.shields.io/badge/excel-darkgreen?style=for-the-badge)
+
+## Currently building hands-on projects in:
+Exploratory Data Analysis (EDA): data cleaning, handling missing values, outlier detection, statistical analysis.
+Data Visualization: matplotlib, seaborn, plotly
+SQL Data Analysis: joins, aggregations, window functions
+Machine Learning: regression and classification models with sklearn
+Data Pipelines & APIs: building simple pipelines and REST APIs using FastAPI
